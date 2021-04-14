@@ -1,0 +1,93 @@
+body{
+    font-family: 'Satisfy', cursive;
+}
+
+
+
+section{
+    height: 500px;
+    padding-bottom: 120px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width:100%;
+}
+
+.link-button{
+    background-image: linear-gradient( 45deg, red, hotpink);
+    color:white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.last{
+    padding-top: 650px;
+    text-align: center;
+    font-size: 30px;
+}
+.work-img{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.work-img img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.foot{
+    text-align: center;
+    /* background-color: blue; */
+    /* height: 125px; */
+    height: min-content;
+}
+
+.foot h1{
+    font-size: 30px;
+}
+
+.foot h3{
+    font-size: 25px;
+}
+
+.foot p{
+    color:grey;
+}
+
+
+.down{
+    /* background-color: black; */
+    height: min-content;
+    
+}
+
+.contact{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: rgb(238, 37, 104);
+    border-radius: 8px;
+    color: white;
+    height:100px;
+    width:  45%;
+    margin:auto;
+    
+}
+
+footer{
+    text-align: center;
+    color: grey;
+}
